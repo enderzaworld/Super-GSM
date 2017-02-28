@@ -1,0 +1,18 @@
+sudo apt-get update && sudo apt-get upgrade
+y
+
+sudo apt-get install apache2 apache2-utils
+sudo apt-get install libapache2-mod-php5 php5 php-pear php5-xcache php5-mysql php5-curl php5-gd
+sudo apt-get install mysql-server
+sudo apt-get install mysql-client
+sudo bash
+apt-get install phpmyadmin
+nano /etc/apache2/apache2.conf
+
+//append: Include /etc/phpmyadmin/apache.conf
+
+/etc/init.d/apache2 restart
+
+aptitude -y install vnc4server
+christian
+christian

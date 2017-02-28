@@ -1,0 +1,35 @@
+mysql			100
+python			250
+java			1000
+arduino uno / C	libre na lang //no more
+iot/sdcard		rasbian/sdcard
+apache install	libre na lang
+php install		libre na lang
+mysql install	libre na lang
+phpmyadmin
+
+
+
+//---------------------setup------------------------------------
+//link: https://www.stewright.me/2012/09/tutorial-install-phpmyadmin-on-your-raspberry-pi/
+sudo apt-get update
+sudo nano /etc/hostname
+sudo reboot
+hostname --fqd
+
+sudo bash
+
+apt-get install php5-mysql
+apt-get install mysql-server mysql-client
+
+//password: christian
+
+//link: https://www.stewright.me/2012/09/tutorial-install-apache-php-and-mysql-on-raspberry-pi/
+	phpmyadmin
+
+//password: christian
+
+nano /etc/apache2/apache2.conf
+//append: Include /etc/phpmyadmin/apache.conf
+
+/etc/init.d/apache2 restart

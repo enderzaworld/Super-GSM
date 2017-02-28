@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=lxterminal -l –e "/usr/bin/tightvncserver"
+Type=Application
+Terminal=true
+X-KeepTerminal=true
+StartupNotify=true

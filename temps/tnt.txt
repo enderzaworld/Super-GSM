@@ -1,0 +1,33 @@
+Regular 5
+Regular 10
+Regular 15
+Regular 20
+Regular 30
+Regular 50
+Regular 60
+Regular 100
+Regular 115
+Regular 200
+Regular 300
+Regular 500
+Regular 1000
+Gaan text 10
+Gaan text 20
+Patok o Text 10
+Patok o Text 20
+Patok o Text 30
+Unli text to all 20
+UTP 100
+UTP 200
+Unli text to all networks 30
+Unli text and 10 mins. call to SMART/TNT, 50 text to SMART/TNT 10
+Unli call and text to SMART/TNT 20
+Gaan Unlitext 10
+Gaan Unlitext Plus 15
+Gaan Unlitext 30
+Unlitext to SMART,TNT,SUN 150
+Unlitext to SMART,TNT,SUN 10
+Unlitext Extra 30
+40 Quick call(30 secs. each) 15
+PIDD 20
+PIDD 50

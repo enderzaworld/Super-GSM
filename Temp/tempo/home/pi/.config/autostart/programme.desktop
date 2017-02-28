@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=lxterminal –e "sudo python /home/pi/superGSM.py"
+Type=Application
+Terminal=true
+X-KeepTerminal=true
+StartupNotify=true

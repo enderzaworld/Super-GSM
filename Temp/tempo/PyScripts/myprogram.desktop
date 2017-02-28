@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=lxterminal -e "sudo python /home/pi/TerrorWilliiam.py"
+Type=Application
+Name[en_GB]=put to startup myprogram.desktop

@@ -1,0 +1,48 @@
+Regular 5
+Regular 10
+Regular 15
+Regular 20
+Regular 25
+Regular 30
+Regular 35
+Regular 40
+Regular 45
+Regular 50
+Regular 55
+Regular 60
+Regular 65
+Regular 70
+Regular 75
+Regular 80
+Regular 85
+Regular 90
+Regular 95
+Regular 100
+Regular 105
+Regular 110
+Regular 115
+Regular 120
+Regular 125
+Regular 130
+Regular 135
+Regular 140
+Regular 145
+Regular 150
+Call and Text Combo 10
+Call and Text Combo 20
+Call and Text Combo 30
+Call and Text Combo 50
+Unli Call and Text 25
+Unli Call and Text 30
+Unli Call and Text 100
+Unli Call and Text 150
+Unli Call and Text 450
+Unli Text to all network 20
+Unli Text 20
+Unli Text 50
+Unli Text 150
+Winner Text 10
+Trio 20
+IDD Combo 30
+IDD Combo 60
+TODO IDD 30

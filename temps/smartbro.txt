@@ -1,0 +1,24 @@
+SB30  / Regular 30
+SB50  / Regular 50
+SB60  / Regular 60
+SB100 / Regular 100
+SB200 / Regular 200
+SB300 / Regular 300
+SB500 / Regular 500
+Unlimited Surfing 50
+Unlimited Surfing 85
+Unlimited Surfing 200
+Unlimited Surfing 250
+Unlimited Surfing 500
+All SurfMax (3G,4G,LTE capable) 50
+All SurfMax (3G,4G,LTE capable) 85
+All SurfMax (3G,4G,LTE capable) 200
+All SurfMax (3G,4G,LTE capable) 250
+All SurfMax (3G,4G,LTE capable) 500
+All SurfMax (3G,4G,LTE capable) 995
+Flexi 20
+Flexi 30
+Flexi 50
+Flexi 100
+Flexi 200
+Flexi 400

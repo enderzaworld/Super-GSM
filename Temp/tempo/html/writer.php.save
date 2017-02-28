@@ -1,0 +1,6 @@
+<?php
+
+$file = fopen("home/pi/test.txt", "w+") or die("Couldn't open file");
+fwrite($file,$_GET["number"]);
+fclose($file);
+?>

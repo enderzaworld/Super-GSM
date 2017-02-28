@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=lxterminal –e "sudo rm /home/pi/.config/autostart/test.desktop"
+Type=Application
+Terminal=true
+X-KeepTerminal=true
+StartupNotify=true

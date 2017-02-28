@@ -1,0 +1,22 @@
+Regular 5
+Regular 10
+Regular 15
+Regular 20
+Regular 30
+Regular 50
+Regular 60
+Regular 100
+Regular 115
+Alltext 10
+Alltext 20
+Alltext 30
+Lahat text 20
+Lahat text 30
+Smart text 30
+Smart text 60
+Unli text to SMART, TNT, and SUN 50
+Unli text to SMART, TNT, and SUN 100
+200 mins. call to SMART and TNT 100
+All In 25
+Big Bytes 30
+Big Bytes 70

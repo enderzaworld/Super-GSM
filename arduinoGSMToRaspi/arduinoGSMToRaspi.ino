@@ -22,6 +22,8 @@ int i = 0;
 char msg[160];
 byte numMsg[1000]= "";
 int sig;
+// Constants
+const int coinpin = 2;
 
 // Variables
 volatile int cents = 0;

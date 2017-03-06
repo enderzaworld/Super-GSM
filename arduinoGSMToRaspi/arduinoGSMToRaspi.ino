@@ -23,6 +23,9 @@ char msg[160];
 byte numMsg[1000]= "";
 int sig;
 
+// Variables
+volatile int cents = 0;
+
 void setup() {
   Serial.begin(38400);
   Serial.println("Start");
@@ -30,8 +33,19 @@ void setup() {
   initGSM();
   Serial.println("Success");
   Serial.println("Begin");
+  
+  attachInterrupt(digitalPinToInterrupt(coinpin), coinInterrupt, RISING);
+  
   //Serial.println("222_-_bal");//test
   //send_msg("Type your number here", "Text Message");
+}
+
+// Interrupt
+void coinInterrupt(){
+  
+  // Each time a pulse is sent from the coin acceptor, interrupt main loop to add 1 cent and flip on the LED
+  cents = cents + 1;
+  
 }
 
 void loop() {
@@ -80,7 +94,11 @@ void loop() {
 //        Serial.println(numlen);//test
 //        Serial.println(indexof);//test
     		send_msg(char_number, char_msg);
-      }else{//  222_-_rawr 09233333333
+      }else{
+		  if(string=="retrieve"){
+			Serial.println(cents);
+			cents=0;
+		  }
         //Serial.println(string);
       }
   //		Serial.println(string);//test

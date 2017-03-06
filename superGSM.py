@@ -30,7 +30,7 @@ def usbOn():
 def loop():
 	while True:
 		print 'Press Ctrl+C to end the program...'
-		file3 = open("home/pi/addToken.txt", "rw+")
+		file3 = open("home/pi/chargeState.txt", "rw+")
 		chargeState = file3.read() #0 or 1
 		file3.close()
 		if chargeState == "1"
